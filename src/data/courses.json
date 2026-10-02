@@ -1,0 +1,542 @@
+[
+  {
+    "code": "CS101",
+    "title": "Introduction to Computing",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS201",
+    "title": "Introduction to Programming",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS201P",
+    "title": "Introduction to Programming Practical",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS202",
+    "title": "Web Design & Development",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS301",
+    "title": "Data Structures",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS301P",
+    "title": "Data Structures Practical",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS302",
+    "title": "Digital Logic Design",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS302P",
+    "title": "Digital Logic Design Practical",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS304",
+    "title": "Object Oriented Programming",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS304P",
+    "title": "Object Oriented Programming Practical",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS311",
+    "title": "Introduction to Web Services Development",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS401",
+    "title": "Computer Architecture and Assembly Language Programming",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS402",
+    "title": "Theory of Automata",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS403",
+    "title": "Database Management Systems",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS403P",
+    "title": "Database Management Systems Practical",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS408",
+    "title": "Human Computer Interaction",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS411",
+    "title": "Visual Programming",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS501",
+    "title": "Advance Computer Architecture",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS502",
+    "title": "Fundamental of Algorithms",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS504",
+    "title": "Software Engineering - I",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "CS506",
+    "title": "Enterprise Application Development",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS507",
+    "title": "Information Systems",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS508",
+    "title": "Modern Programming Languages",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS601",
+    "title": "Data Communication",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS602",
+    "title": "Computer Graphics",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS604",
+    "title": "Operating Systems",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS605",
+    "title": "Software Engineering - II",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "CS607",
+    "title": "Artificial Intelligence",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS609",
+    "title": "System Programming",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS610",
+    "title": "Computer Networks",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS611",
+    "title": "Software Quality Assurance",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "CS614",
+    "title": "Data Warehousing",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "CS615",
+    "title": "Software Project Management",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "CS619",
+    "title": "Final Project",
+    "faculty": "Computer Science"
+  },
+  {
+    "code": "IT430",
+    "title": "E-Commerce",
+    "faculty": "Information Technology"
+  },
+  {
+    "code": "SE401",
+    "title": "Software Architecture and Design",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "SE402",
+    "title": "Software Verification and Validation",
+    "faculty": "Software Engineering"
+  },
+  {
+    "code": "MTH100",
+    "title": "General Mathematics",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH101",
+    "title": "Calculus And Analytical Geometry",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH102",
+    "title": "Basic Mathematics-I",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH202",
+    "title": "Discrete Mathematics",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH301",
+    "title": "Calculus II",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH302",
+    "title": "Business Mathematics & Statistics",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH303",
+    "title": "Basic Mathematics-II",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH401",
+    "title": "Differential Equations",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH501",
+    "title": "Linear Algebra",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH601",
+    "title": "Operations Research",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "MTH603",
+    "title": "Numerical Analysis",
+    "faculty": "Mathematics"
+  },
+  {
+    "code": "STA301",
+    "title": "Statistics and Probability",
+    "faculty": "Statistics"
+  },
+  {
+    "code": "STA630",
+    "title": "Research Methods",
+    "faculty": "Statistics"
+  },
+  {
+    "code": "PHY101",
+    "title": "Physics",
+    "faculty": "Physics"
+  },
+  {
+    "code": "PHY301",
+    "title": "Circuit Theory",
+    "faculty": "Physics"
+  },
+  {
+    "code": "ENG101",
+    "title": "English Comprehension",
+    "faculty": "English"
+  },
+  {
+    "code": "ENG201",
+    "title": "Business and Technical English Writing",
+    "faculty": "English"
+  },
+  {
+    "code": "ENG301",
+    "title": "Business Communication",
+    "faculty": "English"
+  },
+  {
+    "code": "ENG501",
+    "title": "History of English Language",
+    "faculty": "English"
+  },
+  {
+    "code": "ENG502",
+    "title": "Introduction to Linguistics",
+    "faculty": "English"
+  },
+  {
+    "code": "PAK301",
+    "title": "Pakistan Studies",
+    "faculty": "Social Studies"
+  },
+  {
+    "code": "ISL201",
+    "title": "Islamic Studies",
+    "faculty": "Islamic Studies"
+  },
+  {
+    "code": "ISL202",
+    "title": "Islamic Studies / Ethics",
+    "faculty": "Islamic Studies"
+  },
+  {
+    "code": "ETH202",
+    "title": "Ethics (For Non-Muslims)",
+    "faculty": "Islamic Studies"
+  },
+  {
+    "code": "MGT101",
+    "title": "Financial Accounting",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT111",
+    "title": "Introduction to Public Administration",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT201",
+    "title": "Financial Management",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT211",
+    "title": "Introduction to Business",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT301",
+    "title": "Principles of Marketing",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT401",
+    "title": "Financial Accounting II",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT402",
+    "title": "Cost & Management Accounting",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT411",
+    "title": "Money & Banking",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT501",
+    "title": "Human Resource Management",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT502",
+    "title": "Organizational Behaviour",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT503",
+    "title": "Principles of Management",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT510",
+    "title": "Total Quality Management",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT602",
+    "title": "Entrepreneurship",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT603",
+    "title": "Strategic Management",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT610",
+    "title": "Business Ethics",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "MGT611",
+    "title": "Business & Labor Law",
+    "faculty": "Management Sciences"
+  },
+  {
+    "code": "ACC311",
+    "title": "Fundamentals of Auditing",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "ACC501",
+    "title": "Business Finance",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN611",
+    "title": "Advanced Financial Accounting",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN621",
+    "title": "Financial Statement Analysis",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN622",
+    "title": "Corporate Finance",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN623",
+    "title": "Taxation Management",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN625",
+    "title": "Credit & Risk Management",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "FIN630",
+    "title": "Investment Analysis & Portfolio Management",
+    "faculty": "Accounting & Finance"
+  },
+  {
+    "code": "ECO401",
+    "title": "Economics (Micro & Macro)",
+    "faculty": "Economics"
+  },
+  {
+    "code": "ECO402",
+    "title": "Microeconomics",
+    "faculty": "Economics"
+  },
+  {
+    "code": "ECO403",
+    "title": "Macroeconomics",
+    "faculty": "Economics"
+  },
+  {
+    "code": "ECO404",
+    "title": "Managerial Economics",
+    "faculty": "Economics"
+  },
+  {
+    "code": "ECO405",
+    "title": "Development Economics",
+    "faculty": "Economics"
+  },
+  {
+    "code": "MCM101",
+    "title": "Introduction to Mass Communication",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "MCM301",
+    "title": "Communication Skills",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "MCM304",
+    "title": "Mass Media in Pakistan",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "MCM401",
+    "title": "Fundamentals of Public Relations",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "MCM404",
+    "title": "Electronic Media Content",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "MCM411",
+    "title": "News Writing and Reporting",
+    "faculty": "Mass Communication"
+  },
+  {
+    "code": "PSY101",
+    "title": "General Psychology",
+    "faculty": "Psychology"
+  },
+  {
+    "code": "PSY401",
+    "title": "Clinical Psychology",
+    "faculty": "Psychology"
+  },
+  {
+    "code": "PSY402",
+    "title": "Social Psychology",
+    "faculty": "Psychology"
+  },
+  {
+    "code": "PSY502",
+    "title": "History & Systems of Psychology",
+    "faculty": "Psychology"
+  },
+  {
+    "code": "SOC101",
+    "title": "Introduction to Sociology",
+    "faculty": "Sociology"
+  },
+  {
+    "code": "SOC401",
+    "title": "Cultural Anthropology",
+    "faculty": "Sociology"
+  },
+  {
+    "code": "BIO101",
+    "title": "Basic Biology",
+    "faculty": "Biological Sciences"
+  },
+  {
+    "code": "BIO201",
+    "title": "Cell Biology",
+    "faculty": "Biological Sciences"
+  },
+  {
+    "code": "BIO202",
+    "title": "Biochemistry",
+    "faculty": "Biological Sciences"
+  },
+  {
+    "code": "BT101",
+    "title": "Ecology, Biodiversity & Evolution",
+    "faculty": "Bio-Technology"
+  },
+  {
+    "code": "BT102",
+    "title": "Microbiology",
+    "faculty": "Bio-Technology"
+  },
+  {
+    "code": "ZOO101",
+    "title": "Principles of Animal Life",
+    "faculty": "Zoology"
+  }
+]

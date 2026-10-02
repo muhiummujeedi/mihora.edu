@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Private input directory (NEVER commit raw Drive links / indices to public git)
+private-input/*
+!private-input/.gitkeep
+
+# Sensitive server secrets & raw mappings
+encrypted-resource-map/
+*.enc
+*.pem
+*.key
+.secrets/

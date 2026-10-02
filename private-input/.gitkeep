@@ -1,0 +1,7 @@
+# Place private source files here locally:
+# 1. VU Mega Index — Bot Integration Specification.md
+# 2. VU_Bot_Index_Spec.md
+# 3. VU_Mega_Index_Bot.md
+# 4. VU_Mega_Index_Bot.txt
+#
+# These files will never be committed to git or exposed to the public frontend.

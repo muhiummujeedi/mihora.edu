@@ -1,0 +1,6 @@
+{
+  "name": "MIHORA STUDY LIBRARY",
+  "description": "High-performance educational resource portal and search engine by Mihora Tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
